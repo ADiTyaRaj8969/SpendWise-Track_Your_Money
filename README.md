@@ -24,3 +24,10 @@
 - **Database**: MySQL
 
 ---
+## 🔗 Connect with Me
+
+- 🔗 GitHub: [@ADiTyaRaj8969](https://github.com/ADiTyaRaj8969)  
+- ✉️ Email: adivid198986@gmail.com  
+- 💼 LinkedIn: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-710a5a291/)
+
+---
